@@ -25,11 +25,17 @@ A backend API built with **Node.js**, **Express**, and **Postgres**. This backen
 ## Environment Variables
 
 PORT=
+
 DB_USER=
+
 DB_HOST=
+
 DB_NAME=
+
 DB_PASSWORD=
+
 DB_PORT=
+
 JWT_SECRET=
 
 ## API endpoints
