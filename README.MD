@@ -20,10 +20,11 @@ A backend API built with **Node.js**, **Express**, and **Postgres**. This backen
 
 ### Todos AND Users
 
-| Method | Endpoint | description
-|`GET` |
-|`POST` |`/api/auth/register`| - Register a new user
-|`POST` | `/api/auth/login` | - Login and get token
-|`GET` | `/api/todos  ` |- Get all todos (protected)
-|`POST` |`/api/todos ` |- Create a todo (protected)
-|`DELETE`|/`api/todos/:id ` |- Delete a todo (protected)
+| Method   | Endpoint             | description                 |
+| :------- | :------------------- | :-------------------------- |
+| `GET`    |
+| `POST`   | `/api/auth/register` | - Register a new user       |
+| `POST`   | `/api/auth/login`    | - Login and get token       |
+| `GET`    | `/api/todos  `       | - Get all todos (protected) |
+| `POST`   | `/api/todos `        | - Create a todo (protected) |
+| `DELETE` | /`api/todos/:id `    | - Delete a todo (protected) |
